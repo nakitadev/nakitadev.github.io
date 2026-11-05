@@ -1,6 +1,6 @@
 <div align="center">
 
-# Atichat Chaisarn (Night / ไน🌙) — AI Systems Engineer Portfolio
+# Atichat Chaisarn (Night🌙) — AI Systems Engineer Portfolio
 
 [![Live Portfolio — GitHub Pages](https://img.shields.io/badge/Live_Portfolio-nakitadev.github.io-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://nakitadev.github.io)
 [![Live Mirror — Vercel](https://img.shields.io/badge/Vercel_Mirror-atichat--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atichat-portfolio-nakitadevprojects.vercel.app)
